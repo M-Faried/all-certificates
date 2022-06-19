@@ -1,0 +1,1 @@
+This repository contains all the certificates obtained from other platforms other than Coursera.
